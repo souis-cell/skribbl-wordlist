@@ -3,3 +3,263 @@ banana
 traffic light
 mountain bike
 pizza
+3D cube
+Abraham Lincoln
+Adidas
+Africa
+Aladdin
+Alaska
+Albert Einstein
+Alice in Wonderland
+Amazon Box
+Amazon River
+America
+Android
+Angkor Wat
+Angry Birds
+Antarctica
+Apple Logo
+Arctic
+Audi
+Australia
+BMW
+Baby Yoda
+Baltic Sea
+Barack Obama
+Barney
+Batman
+Batman Logo
+Beethoven
+Benjamin Franklin
+Big Ben
+Bitcoin
+Black Sea
+Brandenburg Gate
+Brazil
+Buckingham Palace
+Bugs Bunny
+Burger King
+Canada
+Capitol Building
+Captain America
+Caribbean
+Caspian Sea
+Charlie Chaplin
+China
+Christ the Redeemer
+Chuck Norris
+Cleopatra
+Coca Cola
+Coffee Mug
+Colosseum
+Columbus
+Cookie Monster
+DNA
+Da Vinci
+Dance Move
+Darth Vader
+Dead Sea
+Discord Logo
+Disney Castle
+Doge
+Dollar Sign
+Dominos Pizza
+Donald Duck
+Dracula
+Easter Bunny
+Egypt
+Eiffel Tower
+Elmo
+Elvis Presley
+Emoji
+Empire State Building
+English Channel
+Facebook
+FedEx Truck
+Ferrari
+Ford
+France
+Frankenstein
+Gandhi
+Garfield
+George Washington
+Germany
+Ghostbusters
+Godzilla
+Golden Gate Bridge
+Google
+Great Britain
+Great Lakes
+Great Sphinx
+Great Wall of China
+Greece
+Greenland
+Grinch
+Grumpy Cat
+Harry Potter
+Hawaii
+Hollywood Sign
+Homer Simpson
+Hot Wheels
+IKEA
+Iceland
+India
+Indian Ocean
+Instagram
+Iron Man
+Ironman
+Isaac Newton
+Italy
+Jack Sparrow
+James Bond
+Japan
+Joan of Arc
+John F Kennedy
+Kermit
+King Kong
+King Tut
+LEGO Minifigure
+Lego Brick
+Leonardo da Vinci
+Lincoln Memorial
+Little Red Riding Hood
+Loch Ness Monster
+London Bridge
+Machu Picchu
+Marie Curie
+Mario
+Martin Luther King
+Mary Poppins
+Matrix
+McDonald's
+Mediterranean
+Meme Face
+Mercedes
+Mexico
+Mickey Mouse
+Minecraft
+Minnie Mouse
+Moai Statues
+Mount Rushmore
+Mozart
+Napoleon
+Nelson Mandela
+Netflix
+New Zealand
+Nike
+Nike Swoosh
+Nile River
+Nintendo Switch
+North America
+Notre Dame
+Nyan Cat
+Optimus Prime
+Oreo
+Pac-Man
+Pacific Ocean
+Panama Canal
+Papa Smurf
+Parthenon
+Peace Sign
+Pentagon
+Peppa Pig
+Pepsi
+Peter Pan
+Petra
+Pikachu
+Pink Panther
+Pinocchio
+PlayStation
+Pokemon Ball
+Popeye
+Princess Leia
+Pringles
+Pyramids
+Queen Elizabeth
+Red Sea
+Reddit
+Rick Roll
+Robin Hood
+Rolex Watch
+Ronald McDonald
+Russia
+Santa Claus
+Scooby Doo
+Shakespeare
+Shell Logo
+Sherlock Holmes
+Shrek
+Smiley Face
+Snapchat Ghost
+Snow White
+Sonic
+South America
+Spain
+Sphinx
+Spider-Man
+Spongebob
+St Basils Cathedral
+Starbucks
+Statue of Liberty
+Steve Jobs
+Stonehenge
+Subway
+Super Mario
+Superman
+Superman Logo
+Sydney Opera House
+Taj Mahal
+Target
+Tarzan
+Tesla
+Tetris
+Texas
+Thor
+TikTok Logo
+Tinker Bell
+Tom and Jerry
+Tower Bridge
+Toyota
+Twin Towers
+Twitch
+Twitter Bird
+United Kingdom
+Venice Canals
+Vincent van Gogh
+Walmart
+Walt Disney
+Washington Monument
+White House
+Windows Logo
+Winnie the Pooh
+Wonder Woman
+World Map
+Xbox
+Yoda
+YouTube Play Button
+Zelda
+Zorro
+aardvark
+abacus
+accordion
+acorn
+acrobat
+actor
+actress
+adapter
+advent calendar
+air conditioner
+airplane
+alarm clock
+albatross
+alien spaceship
+almond
+alpaca
+ambulance
+amulet
+amusement park
+anchor
+anemone
+angel
+angelfish
+antelope
